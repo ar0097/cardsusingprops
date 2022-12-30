@@ -1,0 +1,35 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.profile {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.span {
+    margin: 20px;
+    font-size: 40px;
+}
+
+.card2 {
+    width: 80%;
+}
+
+button {
+    border-radius: 10px;
+    border-color: lightgrey;
+    background-color: lightgray;
+}
+.img1 {
+    width: 40px;
+    float: right;
+    margin-right: 20px;
+}
+
+.img2 {
+    width: 450px;
+}
